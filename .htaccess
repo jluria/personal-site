@@ -1,0 +1,4 @@
+<IfModule pagespeed_module>
+    ModPagespeed on
+    ModPagespeedEnableFilters remove_comments,rewrite_javascript,rewrite_css,rewrite_images
+</IfModule>
